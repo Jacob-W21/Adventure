@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="16" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Terrain" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="Terrain1.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="BlackExit" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <image source="../../../../../../Documents/Adenture Game/maps/Tile Sets/BlackExit.png" width="64" height="96"/>
+ </tileset>
+ <layer name="background" width="20" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1NiYGBQGgBcAsXkqC0hEqtDMS7zSMHqaJgc9+Ayk1z/4cOU+hefmSPNvMEYJ8TkF/T0RYmZ2NI/IT+RYh4+f1DLPGwYAAYtEJMABQAA
+  </data>
+ </layer>
+ <layer name="Enterance" width="20" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGDyAkYWBgYmFeuYxA81ioaJ5rECz2Kho3igYBSMZPGZgOPAIiAfSDQCiCTqPAAUAAA==
+  </data>
+ </layer>
+ <layer name="walls" width="20" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC62Siw3CMAxEU6CD9MMgQLoHnzBIYRFGxRE59XQyqKh90qlufLrYUkJYn73paOqpVuVeWwQP6CVvMF1NkWpVpDx4QJS8u+lhSlSrEuXBA9ADXfk2VCsH2v3k9Hjnjs7VCy5h2v3m9Hjnjs7VC8Yw7f50esnJGx3vXBonbwmcV5u2K+ZllsxYmXZylmfcFP07q74XRfevyn9Fd/K9+l48eP+m3KE78btI4Tf1Z56XzXDWHPZg1m8e0Irm8gYQ57P9AAUAAA==
+  </data>
+ </layer>
+ <layer name="rock" width="20" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAXUAK9xsGlpz2Awhx52o6snRT+9/EkPewYyzogFQ8GNyAAANRcHTAAFAAA=
+  </data>
+ </layer>
+</map>

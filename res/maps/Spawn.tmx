@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Terrain" tilewidth="32" tileheight="32" tilecount="1024">
+  <image source=Terrain1.png" trans="ffffff" width="1024" height="1024"/>
+ </tileset>
+ <layer name="grass" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJx7xMTA8GgUj+JRPIqHAAYAdgQLQA==
+  </data>
+ </layer>
+ <layer name="cave" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYCANqAFxIR5MKqCFeep4MKnADYjdkfAiIF6MxCcVpAFxOhI+BMSHkfikgjYgbkfCj4D4MRJ/FIyC4QQAbosTfA==
+  </data>
+ </layer>
+ <layer name="water" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzLYmRgyMaDc4CYFNAFVN+NB/cMsHmrgOp18JjnTQM/k2JmFlCdDwHztIF4DZHmEXIbqWFIb/NI8SsIEIpfUtMLcnxoo5lNqttg7lsNxSC96PxRgB8AAHExOr4=
+  </data>
+ </layer>
+ <layer name="misc" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAO+DGj8oWxsJkYiTQMCPKYccthM+c4HvUgcA6LvDAWPjZ12MA7oLouItS+I9I8ZLAHqGcvkfqeo6k7iUXfHaDYXTTx3USaLw/ECmhif4B6/6Lpv81MnJn2QOxAnNVgMwmBeCBOINI8bAA93dQDcQMF5qGD+UC8gEy9vcB03kdCniEE1gLNWkdF8wYjAADmshca
+  </data>
+ </layer>
+ <layer name="treeb" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDBXwj5mB4T8QM7AMtEsGBgAAB5wCCA==
+  </data>
+ </layer>
+ <layer name="tree" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DognnMDAzzgXgBM3XM2wc0Zz8QH6CSefeA5twH4gdUMm+kAwDDCwbT
+  </data>
+ </layer>
+</map>

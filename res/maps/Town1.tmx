@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Terrain 1" tilewidth="32" tileheight="32" tilecount="1024">
+  <image source="Terrain1.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="Terrain 2" tilewidth="32" tileheight="32" tilecount="1024">
+  <image source="Terrain2.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="background" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC3vExMDwaBSP4lE8ikfxKB7Fo3gUUw0DAAPLDdRgCQAA
+  </data>
+ </layer>
+ <layer name="cave" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMglEwCkbBUAfsQMwBxGxQNjrmINE8dQJYY9Q8vAAAhR61PmAJAAA=
+  </data>
+ </layer>
+ <layer name="water" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYOBANiN1cfcoHsWjmG54NZXxKBgFwwkAAHR7HcBgCQAA
+  </data>
+ </layer>
+ <layer name="bridge" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjgDIQwEZd8wpGzRs1b5CZN4kNgUkFID3T0fBEEGYizzxqu4/a4TeByuaNglEwVAEA+4VYAWAJAAA=
+  </data>
+ </layer>
+ <layer name="misc" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYOSA58wD7QIGhuNEuuEEI23dQUtwgsrh/IIO8UZMeJuz0dYNx4dwnA8mkDcI8vlQAL1EhNMbJDYTBelzAppdMHNhZr5hIA1sYEbVj24OJW6lFgAAsVci3GAJAAA=
+  </data>
+ </layer>
+ <layer name="tree" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3QQQpAUBSF4VOvt/8xCttAYRuPwlL8OzC5DHT+OtOv25Wcc865d2qT1LE+xXgzzsLWIO/AOdkV5H3R339aZalmTY65Z8AZ2RTkFZyN7Q/eDXK67PVgCQAA
+  </data>
+ </layer>
+ <layer name="collision" width="20" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMglEwCkYBNcA/ZgaG/0DMwDLQLhk+YKiGKQDL0Ha5YAkAAA==
+  </data>
+ </layer>
+</map>
