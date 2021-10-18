@@ -1,6 +1,6 @@
 # Adventure
 This was a multi scene game I programmed when I first started learning Java, using Slick2D.
-The game itself is nothing special, you just get to walk betwwen the 3 maps I created using tile maps and a tile map editor. The game has the option to save and quit which saves your characters information to a data file so you can reload in as the gender of choice of which map you were on when you left.
+The game itself is nothing special, you just get to walk between the 3 maps I created using tile maps and a tile map editor. The game has the option to save and quit which saves your characters information to a data file so you can reload in as the gender of choice and which map you were on when you left.
 
 ![Adventure](https://user-images.githubusercontent.com/53021624/111361919-39d05580-865c-11eb-8a60-1af95d9d4004.gif)
 
